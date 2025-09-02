@@ -11,6 +11,8 @@ I have a formal design background and have been developing software since ~2008.
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" title="React Native" alt="React Native" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original-wordmark.svg" title="Expo" alt="Expo" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" height="40"/>&nbsp;
